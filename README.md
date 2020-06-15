@@ -1,5 +1,5 @@
 # Deep Learning from Scratch
-A book by 斋藤康毅
+<i>A book by 斋藤康毅</i>
 
 ### Chapter 1 - Introducation to Python
 
